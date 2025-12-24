@@ -1,4 +1,4 @@
 # amazon-demo
 A Clone Website of Amazon.
 <br>
-Author - Karan Ghate
+Author - Karan [Apna college]
